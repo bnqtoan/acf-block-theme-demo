@@ -1,0 +1,15 @@
+{
+  "name": "wpe-acf/card",
+  "title": "ACF card demo",
+  "description": "A nice card",
+  "category": "widgets",
+  "icon": "index-card",
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "render.php"
+  },
+  "supports": {
+    "anchor": true
+  },
+  "style": [ "file:./style.css" ]
+}
